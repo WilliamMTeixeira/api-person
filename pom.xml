@@ -84,14 +84,9 @@
 						<path>
 							<groupId>org.mapstruct</groupId>
 							<artifactId>mapstruct-processor</artifactId>
-							<version>${org.mapstruct.version}</version>
+							<version>1.4.2.Final</version>
 						</path>
 					</annotationProcessorPaths>
-					<excludes>
-						<exclude>
-
-						</exclude>
-					</excludes>
 				</configuration>
 			</plugin>
 		</plugins>
